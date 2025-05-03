@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fioritonicolas&label=Profile%20views&color=0e75b6&style=flat" alt="fioritonicolas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fioritonicolas" alt="fioritonicolas" /></a> </p>
-
 - 🔭 I’m currently working on [PAGOS360](pagos360.com)  prev [Zenrise](zenrise.io)
 
 - 💬 Ask me about **Architecture, Infrastructure, Team Management**
